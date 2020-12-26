@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+
+  <document_information>
+    <product>code83</product>
+    <type>datasheet</type>
+    <id_code>CODE83_DATASHEET_19838261</id_code>
+  </document_information>
+
+  <resource_information>
+    <type>json</type>
+    <author>maxplayle</author>
+    <product>code83</product>
+  </resource_information>
+
+  <codes>
+    <name></name>
+    <code></code>
+  </codes>
+</root>

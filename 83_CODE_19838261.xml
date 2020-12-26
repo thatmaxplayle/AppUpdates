@@ -13,8 +13,7 @@
     <product>code83</product>
   </resource_information>
 
-  <codes>
-    <name></name>
-    <code></code>
-  </codes>
+  <codeArray>
+    <code name="" code="" />
+  </codeArray>
 </root>

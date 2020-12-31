@@ -2,14 +2,21 @@
 <root>
 
   <document_information>
-    <product>code83</product>
+    <product>codec_42459</product>
     <type>datasheet</type>
-    <id_code>CODE83_DATASHEET_19838261</id_code>
+    <id_code>CODEC42459_ADESCRIPTOR_PULLABLEDATA</id_code>
   </document_information>
 
   <resource_information>
     <type>xml</type>
     <author>maxplayle</author>
-    <product>code83</product>
+    <product>codec42459</product>
   </resource_information>
+  
+  <variables>
+    
+    <var_a_ccgdf>MC4wLjE=</var_a_ccgdf>
+    <var_b_ccgdf>MzEvMDMvMjAyMQ==</var_b_ccgdf>
+    
+  </variables>
 </root>

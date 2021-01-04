@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE xml>
+<xml>
+
+  <projectRoot>
+    
+    <updates>
+      <latest>0.0.0.0</latest>
+      <early_latest>0.0.1.0</early_latest>
+    </updates>
+      
+  </projectRoot>
+  
+</xml>

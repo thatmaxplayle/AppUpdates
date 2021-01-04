@@ -8,6 +8,12 @@
       <latest>0.0.0.0</latest>
       <early_latest>0.0.1.0</early_latest>
     </updates>
+    
+    <expiry>
+      
+      <expires version="0.0.0.1">01/02/2021</expires>
+      
+    </expiry>
       
   </projectRoot>
   

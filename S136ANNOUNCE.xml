@@ -15,8 +15,8 @@
 
   <data>
   
-    <should_apply_announcement>false</should_apply_announcement>
-    <announcement_content></announcement_content>
+    <should_apply_announcement>true</should_apply_announcement>
+    <announcement_content>KNOWN ISSUES -- ANNOUNCEMENT TEST</announcement_content>
   
   </data>
 </root>

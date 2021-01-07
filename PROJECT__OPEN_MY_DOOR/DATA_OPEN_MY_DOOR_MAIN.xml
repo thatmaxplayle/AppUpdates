@@ -5,8 +5,8 @@
   <projectRoot>
     
     <updates>
-      <latest>0.0.0.1</latest>
-      <early_latest>0.0.0.1</early_latest>
+      <latest>0.0.0.2</latest>
+      <early_latest>0.0.0.3</early_latest>
     </updates>
     
     <expiry>

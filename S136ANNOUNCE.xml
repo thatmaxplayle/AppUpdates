@@ -16,7 +16,7 @@
   <data>
   
     <should_apply_announcement>true</should_apply_announcement>
-    <announcement_content>The ~p~Detainee Transport Required~s~ callout has been found to be ~r~incompatible~s~ with ~o~LSPDFR 0.4.8.0~s~. You ~h~~r~do not~s~ need to uninstall S136Callouts! - more information in ~b~Discord.~g~ (https://discord.gg/3bq88pY)~s~</announcement_content>
+    <announcement_content>The ~p~Detainee Transport Required~s~ callout has been found to be ~r~incompatible~s~ with ~o~LSPDFR 0.4.8.0~s~ - more information in ~b~Discord.~g~ (https://discord.gg/3bq88pY)~s~</announcement_content>
   
   </data>
 </root>

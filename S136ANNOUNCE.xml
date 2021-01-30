@@ -15,7 +15,7 @@
 
   <data>
   
-    <should_apply_announcement>true</should_apply_announcement>
+    <should_apply_announcement>false</should_apply_announcement>
     <announcement_content>Good news! The new LSPDFR build fixes most issues. I'm still addressing a couple of things in an upcoming patch - more information in ~b~Discord.~g~ (https://discord.gg/3bq88pY)~s~</announcement_content>
   
   </data>

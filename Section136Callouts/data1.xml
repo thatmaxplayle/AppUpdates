@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<incentive>
+
+  <allauth>
+    <users>
+      <!-- See locally stored version of this file for comments. -->
+      <user name="" reason="" expiry ="" flag1="" flag2="" />
+      
+     </users>
+  </allauth>
+  
+</incentive>

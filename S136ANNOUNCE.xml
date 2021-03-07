@@ -15,8 +15,8 @@
 
   <data>
   
-    <should_apply_announcement>false</should_apply_announcement>
-    <announcement_content>Good news! The new LSPDFR build fixes most issues. I'm still addressing a couple of things in an upcoming patch - more information in ~b~Discord.~g~ (https://discord.gg/3bq88pY)~s~</announcement_content>
+    <should_apply_announcement>true</should_apply_announcement>
+    <announcement_content>~y~Whoops!~s~ I made a mistake when packing the latest version of Section136Callouts. If you'd like to play the AttemptedRape callout, you'll have to edit the configuration file! Join my Discord for more info!</announcement_content>
   
   </data>
 </root>

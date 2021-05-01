@@ -1,1 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<auversioncheck>
 
+  <app>
+    <name>Max's Test App</name>
+    <version>1.7.0.1129</version>
+    <releaseDate>01/05/2021</releaseDate>
+  </app>
+
+  <versionHistory>
+    
+    <historyItem verison="1.6.0.0" releasedOn="04/04/2021" />
+    
+  </versionHistory>
+
+</auversioncheck>

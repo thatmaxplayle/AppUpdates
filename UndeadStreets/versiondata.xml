@@ -6,7 +6,7 @@
     </version>
     
     <whitelist>
-        <1user id="7332DF2915DB0C256C4EE5A2C843B138" expire="MTIvMTIvMjAyMQ==" pos="0" />
+        <auser id="7332DF2915DB0C256C4EE5A2C843B138" expire="MTIvMTIvMjAyMQ==" pos="0" />
         <user id="A8ED0EF40E7378D75CC5BCEBC5CE6519" expire="MTIvMTIvMjAyMQ==" pos="0" />
     </whitelist>
     

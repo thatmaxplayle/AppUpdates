@@ -2,7 +2,7 @@
 <undeadStreets>
 
     <version>
-        <latest version="1.0.0.0" releaseDate="27/05/2021" preRelease="true" />
+        <latest version="1.0.0.1" releaseDate="28/05/2021" preRelease="true" />
     </version>
     
     <whitelist>

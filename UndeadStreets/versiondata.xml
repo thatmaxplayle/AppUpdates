@@ -4,5 +4,10 @@
     <version>
         <latest version="1.0.0.0" releaseDate="27/05/2021" preRelease="true" />
     </version>
+    
+    <whitelist>
+        <user id="7332DF2915DB0C256C4EE5A2C843B138" expire="MTIvMTIvMjAyMQ==" />
+    </whitelist>
+    
 
 </undeadStreets>

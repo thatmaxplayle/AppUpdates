@@ -8,6 +8,8 @@
     <whitelist>
         <user id="7332DF2915DB0C256C4EE5A2C843B138" expire="MTIvMTIvMjAyMQ==" pos="0" />
         <user id="A8ED0EF40E7378D75CC5BCEBC5CE6519" expire="MTIvMTIvMjAyMQ==" pos="0" />
+        <user id="ABF98881A47B41E6DAB7EDBF4DD3DC64" expire="MjgvMDcvMjAyMQ==" pos="1" />
+        <user id="D836A322D284D678963BAE444DFCD327" expire="MjgvMDcvMjAyMQ==" pos="1" /> 
     </whitelist>
     
 

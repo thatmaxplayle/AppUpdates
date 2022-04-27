@@ -1,0 +1,27 @@
+// AppUpdates Update Definition file for WhatsPlaying.
+// Update Types:
+// 0 = Bug Fix Update
+// 1 = Feature Update
+{
+
+    "app": {
+        "name": "WhatsPlaying",
+        "publisher": "Max Playle",
+        "supported": "Win32",
+        "definition": "github/thatmaxplayle/appupdates/whatsplaying"
+    },
+    "updateDefinitions": [
+        {
+            "appVersion": "1.0",
+            "released": 1651097282,
+            "update": {
+                "version": "1.0.",
+                "type": 1,
+                "changelog": [
+                    "Initial app version!"
+                ]
+            }
+        }
+    ]
+
+}

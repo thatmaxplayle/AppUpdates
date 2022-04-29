@@ -23,7 +23,8 @@
                     "Added the ability to customise the CSS rules for HTML output",
                     "General bug fixes!"
                 ]
-            }
+            },
+            "downloadLink": "https://maxplayledev.org/whatsplaying/download"
         },
         {
             "appVersion": "1.0",

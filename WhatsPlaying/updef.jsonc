@@ -21,6 +21,7 @@
                     "Added support for TIDAL monitoring",
                     "New settings menu for customising the application!",
                     "Added the ability to customise the CSS rules for HTML output",
+                    "Fixed bug with Update Notification System",
                     "General bug fixes!"
                 ]
             },
